@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  num1: 1.5
+  num2: 1.5
+  result: 1.5
+
+two:
+  num1: 1.5
+  num2: 1.5
+  result: 1.5

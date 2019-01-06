@@ -1,0 +1,15 @@
+%h1 Сложение
+= form_with url: 'num/result', method: :get, local: true do |f|
+  Введите первое слогаемое
+  %br
+  = f.text_field :num1
+  %br
+  %br
+  Введите второе слогаемое
+  %br
+  = f. text_field :num2
+  %br
+  %br
+  = f.submit
+ 
+
